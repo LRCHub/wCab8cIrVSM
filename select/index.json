@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "瞬間",
+  "base_artist": "ミテイノハナシ",
+  "createdAt": "2025-12-02T07:52:22.344195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/01_瞬間_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "A-Mei Chang",
+      "has_synced": true,
+      "path": "select/02_瞬間_A-Mei_Chang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "Cyndi Wang",
+      "has_synced": true,
+      "path": "select/03_瞬間_Cyndi_Wang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/04_瞬間_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "Shadya Lan",
+      "has_synced": false,
+      "path": "select/05_瞬間_Shadya_Lan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "瞬間 - Dance Remix",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/06_瞬間_-_Dance_Remix_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "谷山浩子",
+      "has_synced": false,
+      "path": "select/07_瞬間_谷山浩子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "藤田麻衣子",
+      "has_synced": true,
+      "path": "select/08_瞬間_藤田麻衣子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "王心凌",
+      "has_synced": true,
+      "path": "select/09_瞬間_王心凌.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "藍又時",
+      "has_synced": false,
+      "path": "select/10_瞬間_藍又時.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "鄧紫棋",
+      "has_synced": true,
+      "path": "select/11_瞬間_鄧紫棋.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "Nana Kitade",
+      "has_synced": false,
+      "path": "select/12_瞬間_Nana_Kitade.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "瞬間",
+      "artist": "藤田麻衣子",
+      "has_synced": false,
+      "path": "select/13_瞬間_藤田麻衣子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞬間",
+      "artist": "ミテイノハナシ",
+      "has_synced": false,
+      "path": "select/pl_01_瞬間_ミテイノハナシ.txt"
+    }
+  ]
+}
